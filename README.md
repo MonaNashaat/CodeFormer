@@ -6,7 +6,7 @@ we present CodeFormer, a novel approach to learning unsupervised representations
 ## Installation
 To install the model, you can clone the Git repository and run:
 
-pip install -e .
+    pip install -e .
 
 within it.
 
