@@ -3,9 +3,11 @@ we present CodeFormer, a novel approach to learning unsupervised representations
 
 <img width="328" alt="image" src="https://github.com/MonaNashaat/CodeFormer/assets/21979050/251f346a-1b5c-4ffe-b123-2ea9fbb71734">
 
-Installation
+## Installation
 To install the model, you can clone the Git repository and run:
+
 pip install -e .
+
 within it.
 
 
