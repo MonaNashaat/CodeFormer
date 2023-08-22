@@ -8,6 +8,8 @@ import codecs
 import collections
 import json
 import re
+import js2py
+
 
 from .modeling import *
 from .tokenization import *
